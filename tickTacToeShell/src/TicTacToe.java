@@ -11,7 +11,7 @@ public class TicTacToe extends JFrame {
     // ni kan ha 2d array [][] för cellerna också
     static ArrayList<JButton> cellList = new ArrayList<>();
     private static TicTacToe application;
-
+    // TicTacToe? Heeeeelll noooo
     public TicTacToe() {
         setSize(500, 500);
         setVisible(true);
