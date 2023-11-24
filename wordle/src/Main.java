@@ -8,4 +8,3 @@ public class Main {
     JFrame WordleJFrame = new WordleJFrame();
         WordleJFrame.setVisible(true);
     }
-} // Shayaan Test459 9999999
